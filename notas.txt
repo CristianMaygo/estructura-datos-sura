@@ -13,6 +13,10 @@ Datos por Referencia
                 --> Recorrido: buscar o consultar información
                 --> Llenado: alimentar o almacenar información
 
+                    Que es un Objecto literal en js
+
+                    metodo, map(), filter(), find(), forEach(), some(), push(), pop(), shift(), unshift(), splice()
+
 
     - Objectos --> Estructura de información agrupada por un par elementos: "llave": valor (el valor puede ser 
     cualquier tipo de dato).
